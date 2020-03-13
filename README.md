@@ -3,4 +3,4 @@ Code for the JAIR paper "Solving Delete Free Planning with Relaxed Decision Diag
 
 
 # Code coming soon!
-Send me an email if you need the code. I can share with you a non-friendly version of the code.
+Send me an email (mpcastro [at] mie.utoronto.ca) if you need the code. I can share with you a non-friendly version of the code.
